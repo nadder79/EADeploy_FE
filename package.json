@@ -1,0 +1,14 @@
+{
+  "name": "bp_web_app",
+  "version": "1.0.0",
+  "description": "BP Node.js FE for Docker",
+  "author": "Karen Nolan <karen.nolan@it-tallaght.ie>",
+  "main": "fe-server.js",
+  "scripts": {
+    "start": "node fe-server.js"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "mongodb": "^3.1.13"
+  }
+}
